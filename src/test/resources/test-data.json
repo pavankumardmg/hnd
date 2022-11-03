@@ -1,0 +1,18 @@
+{
+  "staging": {
+    "7 Day Print HND": {
+      "url": "https://stagingmailplussubs.coderush.io/national/buy/0010CTK0M403TAXKW0/_gbp",
+      "telephone": {
+        "checkout-flow": "0800 980 6907",
+        "my-account": "0800 980 6908"
+      }
+    },
+    "Weekend Print": {
+      "url": "https://stagingmailplussubs.coderush.io/national/buy/0010C5FIF35GNBDNN0/_gbp",
+      "telephone": {
+        "checkout-flow": "0800 980 6907",
+        "my-account": "0800 980 6908"
+      }
+    }
+  }
+}
